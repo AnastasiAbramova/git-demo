@@ -11,3 +11,4 @@ little notes
 
 The first commit
 The second commit
+The verify commit
